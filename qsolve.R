@@ -4,7 +4,7 @@ library(testthat)
 
 qsolve <- function() 
 {
-  writeLines(readLines("title.txt"))
+  writeLines(readLines("images/title.txt"))
   list <- getInput()
   a <- list[[1]]
   b <- list[[2]]
