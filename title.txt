@@ -8,8 +8,21 @@ CS 4900 - April 18, 2020
 Chandler Klein, Garrett Ruffner, Christian Van Tassel
 GPLv2 License
 
-Please enter values a, b, and c, of the form a(x^2) + b(x) + c = 0.
-If a is equal to 0, the equation is not linear, and NA will be returned.
-If any of the values is infinite, NA, NaN, or a string, NA will be returned.
-If the discriminant (b^2 - 4ac) is less than 0, NA will be returned.
+Please enter values a, b, and c, from the equation a(x^2) + b(x) + c = 0.
+This problem will solve the equation for real solutions x1 and x2.
+
+Input:
+   a, b, and c are finite numeric real numbers
+   a is not equal to 0
+   length of c is not greater than 1
+   the discriminant (b^2 - 4ac) is not less than 0
+
+Output:
+   c(x1, x2) where x1 and x2 are finite numeric real numbers
+   x1 <= x2
+   NA if the input is not as expected or the return values
+      can't be computed as expected
+
+Testing:
+   Unit tests can be run by entering test().
 
