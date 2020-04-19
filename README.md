@@ -1,5 +1,7 @@
 # QuadSolveR
 
+<img src="/qsolve.png" width="600">
+
 In algebra, a quadratic equation (from the Latin quadratus for "square") is any equation that can be rearranged in standard form as
 
 ```math
