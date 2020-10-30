@@ -129,9 +129,9 @@ Give an example
 
 ## Authors
 
-* **Chandler Klein** - [KleinC16](https://github.com/kleinc16)
+* **Chandler Klein** - [ChandlerKlein](https://github.com/chandlerklein)
 
-* **Garrett Ruffner** - [kingogruffner](https://github.com/kingogruffner)
+* **Garrett Ruffner** - [xorplanet](https://github.com/xorplanet)
 
 * **Christian Van Tassel** - [Karl-von-Karl](https://github.com/karl-von-karl)
 
