@@ -129,7 +129,7 @@ Give an example
 
 ## Authors
 
-* **Chandler Klein** - [ChandlerKlein](https://github.com/chandlerklein)
+* **Chandler Klein** - [C94](https://github.com/c94)
 
 * **Garrett Ruffner** - [xorplanet](https://github.com/xorplanet)
 
